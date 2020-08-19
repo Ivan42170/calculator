@@ -1,9 +1,7 @@
 # Calculator
 * add description
 
-![Calculator](/calc.png)
-
-<img src="calc.png" title="calculator" width="150"/>
+<img src="calc.png" title="calculator" width="300"/>
 
 ### Todo
 
