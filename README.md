@@ -1,6 +1,6 @@
 # Calculator
 * add description
-![Calculator](/calc.png)
+![Calculator](/calc.png | width=200)
 
 ### Todo
 
