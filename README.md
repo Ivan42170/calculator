@@ -22,3 +22,7 @@ and the rest of the actions are exactly the same as on a regular calculator.
 * button color
 * button functionality
 * screen functionality
+
+### Done
+
+* interface
