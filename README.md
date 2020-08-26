@@ -19,6 +19,8 @@ and the rest of the actions are exactly the same as on a regular calculator.
 
 ### Todo
 
+
+* point's fonction(max. 1 symbol ".") 
 * button color
 * button functionality
 * screen functionality
