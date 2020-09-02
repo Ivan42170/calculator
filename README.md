@@ -2,18 +2,15 @@
 
 ### Description
 
-  This program creates a complete, working calculator.
+  This program creates a complete, working calculator. It can do addition, subtraction, 
+  multiplication and division. Entrering numbers using the button on the screen.
+  The calculator can work with negative or fractional numbers. Each button has its own color
+  (for example: buttons responsible for numbers are blue color).
+  All actions are displayed as on a regular calculator. 
 
-### What can he do ?
- 
-* It can work with negative and fractionnal numbers.
-* It can do: addition, subtraction, multiplication and division.
 
-### How to work on it ?
- 
-to enter numbers, you need to use the buttons 
-on the screen or the keyboard
-and the rest of the actions are exactly the same as on a regular calculator.
+
+
 
 <img src="calc.png" title="calculator" width="300"/>
 
