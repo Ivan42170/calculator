@@ -12,16 +12,5 @@
 
 
 
-<img src="calc.png" title="calculator" width="300"/>
+<img src="calc_2.png" title="calculator" width="300"/>
 
-### Todo
-
-
-* point's fonction(max. 1 symbol ".") 
-* button color
-* button functionality
-* screen functionality
-
-### Done
-
-* interface
